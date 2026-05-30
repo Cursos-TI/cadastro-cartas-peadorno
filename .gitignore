@@ -6,3 +6,4 @@ supertrunfo
 *.pdb
 *.ilk
 .DS_Store
+.vscode/
