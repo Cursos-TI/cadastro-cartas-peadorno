@@ -1,0 +1,8 @@
+supertrunfo
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+.DS_Store
